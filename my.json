@@ -1,0 +1,242 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    {
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/quiztime-challenge-1-d478c4ff439e\" target=\"_blank\" rel=\"noopener noreferrer\">quiztime Challenge(#1)</a>"},
+	    "geometry": {"type": "Point", "coordinates": [13.4064849,52.5357051]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/quiztime-challenge-2-33b208dbec5e\" target=\"_blank\" rel=\"noopener noreferrer\">quiztime Challenge(#2)</a>"},
+	    "geometry": {"type": "Point", "coordinates": [13.574234190209772,54.43932584716687]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/quiztime-challenge-3-c6a3c43b42ba\" target=\"_blank\" rel=\"noopener noreferrer\">quiztime Challenge(#3)</a>"},
+	    "geometry": {"type": "Point", "coordinates": [8.718691207495667,47.35035260097275]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/quiztime-challenge-4-e0a688b22ce9\" target=\"_blank\" rel=\"noopener noreferrer\">quiztime Challenge(#4)</a>"},
+	    "geometry": {"type": "Point", "coordinates": [18.537954968094915,42.45287141673129]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/quiztime-challenge-5-6-7-cf69e26d067c\" target=\"_blank\" rel=\"noopener noreferrer\">quiztime Challenge(#5)</a>"},
+	    "geometry": {"type": "Point", "coordinates": [13.54536158958009,52.46203432059321]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/quiztime-challenge-5-6-7-cf69e26d067c\" target=\"_blank\" rel=\"noopener noreferrer\">quiztime Challenge(#6)</a>"},
+	    "geometry": {"type": "Point", "coordinates": [8.22788332883663,50.28393118890225]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/quiztime-challenge-5-6-7-cf69e26d067c\" target=\"_blank\" rel=\"noopener noreferrer\">quiztime Challenge(#7)</a>"},
+	    "geometry": {"type": "Point", "coordinates": [-73.9998669326149,40.72179090584146]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/i-won-first-place-in-the-geolocation-quiz-2419f259ba7a\" target=\"_blank\" rel=\"noopener noreferrer\">I won first place in the Geolocation quiz.</a>"},
+	    "geometry": {"type": "Point", "coordinates": [4.4976686,51.9130733]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/quiztime-challenge-8-9fb1f1794341\" target=\"_blank\" rel=\"noopener noreferrer\">quiztime Challenge(#8)</a>"},
+	    "geometry": {"type": "Point", "coordinates": [13.380597359495082,52.53287326696782]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/quiztime-challenge-9-dd65a1e3a44a\" target=\"_blank\" rel=\"noopener noreferrer\">quiztime Challenge(#9)</a>"},
+	    "geometry": {"type": "Point", "coordinates": [125.14951169102284,24.82912928675835]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/how-to-overpass-turbo-56d7981fbe6d\" target=\"_blank\" rel=\"noopener noreferrer\">How to Overpass Turbo</a>"},
+	    "geometry": {"type": "Point", "coordinates": [6.843536271297369,46.463163690532205]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/challenge-to-osint-exercise-001-c1fe56395609\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge to \"OSINT Exercise #001\"</a>"},
+	    "geometry": {"type": "Point", "coordinates": [-11.397878,16.609504]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/challenge-to-osint-exercise-002-7d4036debdef\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge to \"OSINT Exercise #002\"</a>"},
+	    "geometry": {"type": "Point", "coordinates": [144.9664173617598,-37.818432508337935]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/challenge-to-osint-exercise-003-4-5-d1a1d67d03b6\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge to \"OSINT Exercise #003\"</a>"},
+	    "geometry": {"type": "Point", "coordinates": [32.79977332342915,39.931182283505336]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/challenge-to-osint-exercise-003-4-5-d1a1d67d03b6\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge to \"OSINT Exercise #004\"</a>"},
+	    "geometry": {"type": "Point", "coordinates": [151.7563188,7.3625845]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/challenge-to-osint-exercise-003-4-5-d1a1d67d03b6\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge to \"OSINT Exercise #005\"</a>"},
+	    "geometry": {"type": "Point", "coordinates": [-117.15458875202552,32.7344559374167]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/challenge-to-osint-exercise-007-5c86e8f8997d\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge to \"OSINT Exercise #007\"</a>"},
+	    "geometry": {"type": "Point", "coordinates": [-9.096185,38.767649]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/challenge-to-osint-exercise-009-87f0c339abb\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge to \"OSINT Exercise #009\"</a>"},
+	    "geometry": {"type": "Point", "coordinates": [19.8072923,41.3270062]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/challenge-to-osint-exercise-010-edde2aefa5e1\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge to \"OSINT Exercise #010\"</a>"},
+	    "geometry": {"type": "Point", "coordinates": [1.9249555555555553,6.4795194]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/challenge-to-osint-exercise-012-1c5ec2711d0e\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge to \"OSINT Exercise #012\"</a>"},
+	    "geometry": {"type": "Point", "coordinates": [-72.36344003728648,-35.489553649833255]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/challenge-to-osint-exercise-013-7492020fa05a\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge to \"OSINT Exercise #013\"</a>"},
+	    "geometry": {"type": "Point", "coordinates": [23.34355470474339,42.697348994752964]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/challenge-to-osint-exercise-014-81058d3150c0\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge to \"OSINT Exercise #014\"</a>"},
+	    "geometry": {"type": "Point", "coordinates": [28.852811859089915,47.0175065677911]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/challenge-to-osint-exercise-015-5fad616359b1\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge to \"OSINT Exercise #015\"</a>"},
+	    "geometry": {"type": "Point", "coordinates": [6.848309157139566,50.161836416449454]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/challenge-to-osint-quiz-f60b694457b7\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge to OSINT quiz</a>"},
+	    "geometry": {"type": "Point", "coordinates": [1.5115711572511046,43.628901410441735]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/challenge-to-osint-exercise-016-6247866eb272\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge to \"OSINT Exercise #016\"</a>"},
+	    "geometry": {"type": "Point", "coordinates": [38.091243,37.663789]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/quiztime-challenge-10-ea20ac4e9203\" target=\"_blank\" rel=\"noopener noreferrer\">quiztime Challenge(#10)</a>"},
+	    "geometry": {"type": "Point", "coordinates": [13.301388608870642,52.504133117709145]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/quiztime-challenge-11-8e13344e54ba\" target=\"_blank\" rel=\"noopener noreferrer\">quiztime Challenge(#11)</a>"},
+	    "geometry": {"type": "Point", "coordinates": [7.1047753,50.7366677]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/rabbit-hole-challenge-12-b484fb16d63c\" target=\"_blank\" rel=\"noopener noreferrer\">Rabbit Hole Challenge(#12)</a>"},
+	    "geometry": {"type": "Point", "coordinates": [114.1827294,22.3093594]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/challenge-to-osint-exercise-019-7ccf988c8371\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge to \"OSINT Exercise #019\"</a>"},
+	    "geometry": {"type": "Point", "coordinates": [3.7368286137917783,51.05798071161751]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/about-photos-and-contents-of-news-articles-2000d79d8c31\" target=\"_blank\" rel=\"noopener noreferrer\">About photos and contents of news articles</a>"},
+	    "geometry": {"type": "Point", "coordinates": [9.303027767515868,41.55949653262404]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/operation-the-midnight-killer-846c6bd1b82e\" target=\"_blank\" rel=\"noopener noreferrer\">Operation: The Midnight Killer</a>"},
+	    "geometry": {"type": "MultiPoint", "coordinates": [[-71.8847063,44.4286027], [-71.5967174,44.4403103], [-71.4991928,44.2655576], [-71.7698829,44.310866]]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-challenge-by-cybertactix-729c558b06f9\" target=\"_blank\" rel=\"noopener noreferrer\">OSINT challenge by Cybertactix</a>"},
+	    "geometry": {"type": "Point", "coordinates": [-0.049554825747536876,51.52046050491162]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/shadows-of-deception-write-up-2d1717877398\" target=\"_blank\" rel=\"noopener noreferrer\">Shadows of Deception ~Write-up~</a>"},
+	    "geometry": {"type": "Point", "coordinates": [-73.877583,40.716889]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/quiztime-challenge-13-14-f7f5b3d0d71d\" target=\"_blank\" rel=\"noopener noreferrer\">quiztime Challenge(#13,#14)</a>"},
+	    "geometry": {"type": "Point", "coordinates": [37.605769073206616,48.85231948699991]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/quiztime-challenge-13-14-f7f5b3d0d71d\" target=\"_blank\" rel=\"noopener noreferrer\">quiztime Challenge(#13,#14)</a>"},
+	    "geometry": {"type": "Point", "coordinates": [2.1838178539086837,41.38532211540039]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-geoquiz-2784aec735b5\" target=\"_blank\" rel=\"noopener noreferrer\">OSINT - geoquiz</a>"},
+	    "geometry": {"type": "Point", "coordinates": [24.103187,56.946813]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/quiztime-challenge-15-without-google-lens-914567be2343\" target=\"_blank\" rel=\"noopener noreferrer\">quiztime Challenge(#15 without Google Lens)</a>"},
+	    "geometry": {"type": "Point", "coordinates": [6.574035094633133,52.509079628848056]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/dark-cargo-write-up-e1ea0d1d575c\" target=\"_blank\" rel=\"noopener noreferrer\">Dark Cargo ~ Write-up ~</a>"},
+	    "geometry": {"type": "Point", "coordinates": [121.67462712038231,39.01753843541577]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-challenge-write-up-5c5b64040c76\" target=\"_blank\" rel=\"noopener noreferrer\">Osint challenge ~Write up~</a>"},
+	    "geometry": {"type": "MultiPoint", "coordinates": [[-0.1448261,50.8208819], [-0.1404652,50.8208543]]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-challenge-write-up-c7f2f77345d4\" target=\"_blank\" rel=\"noopener noreferrer\">Osint challenge ~Write up~</a>"},
+	    "geometry": {"type": "Point", "coordinates": [20.9881251,42.0035143]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-challenge-write-up-73d1a805dafc\" target=\"_blank\" rel=\"noopener noreferrer\">Osint challenge ~Write up~</a>"},
+	    "geometry": {"type": "Point", "coordinates": [-88.120023,41.799284]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/challenge-to-osint-exercise-021-a52268516666\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge to “OSINT Exercise #021”</a>"},
+	    "geometry": {"type": "Point", "coordinates": [-4.690062,41.352563]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/challenge-to-osint-exercise-022-e72c58ff8da3\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge to “OSINT Exercise #022”</a>"},
+	    "geometry": {"type": "Point", "coordinates": [141.24466819950155, 38.409499330149366]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-challenge-74b1048cb4d6\" target=\"_blank\" rel=\"noopener noreferrer\">Osint challenge</a>"},
+	    "geometry": {"type": "Point", "coordinates": [-71.51791977301494,42.22999593483678]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-challenge-74b1048cb4d6\" target=\"_blank\" rel=\"noopener noreferrer\">Osint challenge</a>"},
+	    "geometry": {"type": "Point", "coordinates": [9.737622115055904,44.099888433674685]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-challenge-f04b24c58320\" target=\"_blank\" rel=\"noopener noreferrer\">Osint challenge</a>"},
+	    "geometry": {"type": "Point", "coordinates": [4.8214127,53.0726466]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-challenge-8b9b21047dcd\" target=\"_blank\" rel=\"noopener noreferrer\">Osint challenge</a>"},
+	    "geometry": {"type": "Point", "coordinates": [6.092792049237161,52.2336435925362]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-challenge-d1a716ce8d7a\" target=\"_blank\" rel=\"noopener noreferrer\">Osint challenge</a>"},
+	    "geometry": {"type": "Point", "coordinates": [103.03151766360274,29.999884833014463]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/quiztime-challenge-16-ddd80a714d93\" target=\"_blank\" rel=\"noopener noreferrer\">quiztime Challenge(#16)</a>"},
+	    "geometry": {"type": "Point", "coordinates": [13.4124280849375,52.491852617410125]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-challenge-3d803b8fe1ef\" target=\"_blank\" rel=\"noopener noreferrer\">Osint challenge</a>"},
+	    "geometry": {"type": "Point", "coordinates": [-0.08119356130849151,51.51625077391316]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-challenge-7b252132de14\" target=\"_blank\" rel=\"noopener noreferrer\">Osint challenge</a>"},
+	    "geometry": {"type": "Point", "coordinates": [-9.12800779582752,38.76971617151236]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-challenge-02120ab10cd5\" target=\"_blank\" rel=\"noopener noreferrer\">Osint challenge</a>"},
+	    "geometry": {"type": "Point", "coordinates": [-0.376672,49.181574]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-challenge-06ddb1037591\" target=\"_blank\" rel=\"noopener noreferrer\">Osint Challenge</a>"},
+	    "geometry": {"type": "Point", "coordinates": [145.05259351974436,-37.95120198983614]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-challenge-3608f3f6a4e5\" target=\"_blank\" rel=\"noopener noreferrer\">Osint Challenge</a>"},
+	    "geometry": {"type": "Point", "coordinates": [34.277363869993465,31.357617095846194]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-challenge-c3ef9805b10e\" target=\"_blank\" rel=\"noopener noreferrer\">Osint Challenge</a>"},
+	    "geometry": {"type": "Point", "coordinates": [-74.114668309242,40.92781930996396]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-challenge-febf982dbc95\" target=\"_blank\" rel=\"noopener noreferrer\">Osint Challenge</a>"},
+	    "geometry": {"type": "Point", "coordinates": [114.23461934110442,22.28369803620953]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-challenge-2ba93acd8e7c\" target=\"_blank\" rel=\"noopener noreferrer\">OSINT Challenge</a>"},
+	    "geometry": {"type": "Point", "coordinates": [14.283822411515562,40.87622648519742]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/osint-exercise-025-12f4a112ef64\" target=\"_blank\" rel=\"noopener noreferrer\">OSINT Exercise #025</a>"},
+	    "geometry": {"type": "Point", "coordinates": [-77.6345503,43.1633824]}
+    },{
+	    "type": "Feature",
+	    "properties": {"popupContent": "<a href=\"https://medium.com/@w9b3N/obsidian-4-0-write-up-d0fd118d0103\" target=\"_blank\" rel=\"noopener noreferrer\">Obsidian 4.0 ~ Write-up ~</a>"},
+	    "geometry": {"type": "MultiPoint", "coordinates": [[-1.286062,50.886813], [-0.126188,51.531437], [-0.099062,51.515062], [-2.915312,54.030187], [-2.841563,52.031688]]}
+    }
+    ]
+}
